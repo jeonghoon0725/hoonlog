@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://hoonlog.github.io/hoonlog/sitemap-index.xml
-Host: https://hoonlog.github.io
+Sitemap: https://jeonghoon0725.github.io/hoonlog/sitemap-index.xml
+Host: https://jeonghoon0725.github.io
