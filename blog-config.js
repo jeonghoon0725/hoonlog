@@ -1,32 +1,27 @@
 module.exports = {
-  title: "hoodie",
-  description: "Hello :) I'm Hudi who developed gatsby-starter-hoodie theme.",
-  author: "Hudi",
-  siteUrl: "https://devhudi.github.io/gatsby-starter-hoodie/",
+  title: "hoonlog",
+  description: "개발자. 명료한 생각이 명료한 글이 된다.",
+  author: "hoonlog",
+  siteUrl: "https://jeonghoon0725.github.io/hoonlog",
   links: {
-    github: "https://github.com/devHudi",
-    linkedIn: "https://linkedin.com",
-    facebook: "https://www.facebook.com",
-    twitter: "https://twitter.com",
-    x: "https://x.com",
-    instagram: "https://www.instagram.com",
-    medium: "https://medium.com",
-    blogger: "https://blogger.com",
-    email: "mailto:devhudi@gmail.com",
-    resume: "https://hudi.blog",
-    link: "https://hudi.blog",
+    github: "https://github.com/jeonghoon0725",
+    linkedIn:
+      "https://www.linkedin.com/in/%ED%83%9C%EA%B7%BC-%EC%9E%A5-a98622300/"
   },
   useAbout: true,
-  // See https://giscus.app/
+  utterances: {
+    repo: 'jeonghoon0725/hoonlog',
+    type: "pathname"
+  },
   giscus: {
-    repo: "devHudi/gatsby-starter-hoodie",
-    repoId: "MDEwOlJlcG9zaXRvcnkzNjk4NjMzNTg=",
+    repo: "jeonghoon0725/hoonlog",
+    repoId: "R_kgDON9ovDw",
     category: "Comments",
-    categoryId: "DIC_kwDOFguqvs4ChwGy",
+    categoryId: "DIC_kwDON9ovD84CnNUq",
     mapping: "pathname",
-    strict: "0",
+    strict: "1",
     reactionsEnabled: "1",
     inputPosition: "bottom",
-    lang: "en",
+    lang: "ko",
   },
 }
