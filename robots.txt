@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://hoonlog.github.io/hoonlog/sitemap-index.xml
+Host: https://hoonlog.github.io
