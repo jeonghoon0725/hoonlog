@@ -17,7 +17,7 @@ module.exports = {
     repo: "jeonghoon0725/hoonlog",
     repoId: "R_kgDON9ovDw",
     category: "Comments",
-    categoryId: "DIC_kwDON9ovD84CnNUq",
+    categoryId: "DIC_kwDON9ovD84CnZmQ",
     mapping: "pathname",
     strict: "1",
     reactionsEnabled: "1",
