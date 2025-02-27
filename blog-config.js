@@ -1,7 +1,7 @@
 module.exports = {
-  title: "hoonlog",
+  title: "hoon.blog",
   description: "개발자. 명료한 생각이 명료한 글이 된다.",
-  author: "hoonlog",
+  author: "hoon",
   siteUrl: "https://jeonghoon0725.github.io/hoonlog",
   links: {
     github: "https://github.com/jeonghoon0725",
