@@ -6,7 +6,7 @@ module.exports = {
   links: {
     github: "https://github.com/jeonghoon0725",
     linkedIn:
-      "https://www.linkedin.com/in/%ED%83%9C%EA%B7%BC-%EC%9E%A5-a98622300/"
+      "https://www.linkedin.com/in/jeonghoon-han-31a206343/"
   },
   useAbout: true,
   utterances: {
